@@ -1,0 +1,100 @@
+user id,product id,product,rating
+user_id_034,Laptops and Computers,Macbook Pro Laptop,1700
+user_id_021,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_087,Monitors,27in FHD Monitor,149.99
+user_id_045,Charging Cables,Lightning Charging Cable,14.95
+user_id_002,Charging Cables,Lightning Charging Cable,14.95
+user_id_064,Monitors,34in Ultrawide Monitor,379.99
+user_id_017,Batterie,AAA Batteries (4-pack),8.97
+user_id_090,Phones and Accessories,Google Phone,600
+user_id_011,Audio Devices,Wired Headphones,11.99
+user_id_056,Batterie,AAA Batteries (4-pack),2.99
+user_id_078,Audio Devices,Wired Headphones,11.99
+user_id_061,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_006,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_079,Audio Devices,Wired Headphones,23.98
+user_id_018,Batterie,AA Batteries (4-pack),3.84
+user_id_038,Audio Devices,Wired Headphones,11.99
+user_id_093,Audio Devices,Wired Headphones,23.98
+user_id_059,Batterie,AA Batteries (4-pack),11.52
+user_id_042,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_072,Monitors,27in FHD Monitor,149.99
+user_id_010,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_082,Entertainment Devices,Flatscreen TV,300
+user_id_014,Batterie,AA Batteries (4-pack),3.84
+user_id_031,Batterie,AA Batteries (4-pack),7.68
+user_id_096,Charging Cables,USB-C Charging Cable,23.9
+user_id_003,Charging Cables,USB-C Charging Cable,11.95
+user_id_047,Phones and Accessories,Vareebadd Phone,400
+user_id_099,Audio Devices,Apple Airpods Headphones,150
+user_id_029,Laptops and Computers,ThinkPad Laptop,999.99
+user_id_068,Audio Devices,Apple Airpods Headphones,150
+user_id_008,Charging Cables,Lightning Charging Cable,14.95
+user_id_076,Charging Cables,USB-C Charging Cable,11.95
+user_id_023,Charging Cables,Lightning Charging Cable,14.95
+user_id_057,Charging Cables,USB-C Charging Cable,11.95
+user_id_001,Charging Cables,Lightning Charging Cable,14.95
+user_id_091,Batterie,AAA Batteries (4-pack),2.99
+user_id_049,Audio Devices,Wired Headphones,11.99
+user_id_036,Charging Cables,Lightning Charging Cable,14.95
+user_id_066,Batterie,AA Batteries (4-pack),7.68
+user_id_005,Phones and Accessories,iPhone,700
+user_id_084,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_026,Charging Cables,USB-C Charging Cable,23.9
+user_id_073,Audio Devices,Apple Airpods Headphones,150
+user_id_039,Audio Devices,Wired Headphones,11.99
+user_id_012,Home Appliances,LG Washing Machine,600
+user_id_081,Audio Devices,Apple Airpods Headphones,150
+user_id_022,Audio Devices,Apple Airpods Headphones,150
+user_id_041,Phones and Accessories,iPhone,700
+user_id_054,Audio Devices,Apple Airpods Headphones,150
+user_id_032,Batterie,AAA Batteries (4-pack),2.99
+user_id_098,Charging Cables,USB-C Charging Cable,11.95
+user_id_007,Monitors,27in FHD Monitor,149.99
+user_id_058,Audio Devices,Wired Headphones,11.99
+user_id_083,Audio Devices,Apple Airpods Headphones,150
+user_id_015,Batterie,AAA Batteries (4-pack),11.96
+user_id_055,Charging Cables,USB-C Charging Cable,11.95
+user_id_009,Audio Devices,Wired Headphones,11.99
+user_id_074,Monitors,34in Ultrawide Monitor,379.99
+user_id_035,Charging Cables,USB-C Charging Cable,11.95
+user_id_071,Monitors,34in Ultrawide Monitor,379.99
+user_id_095,Audio Devices,Wired Headphones,11.99
+user_id_013,Monitors,27in FHD Monitor,149.99
+user_id_060,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_089,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_004,Charging Cables,USB-C Charging Cable,11.95
+user_id_069,Charging Cables,Lightning Charging Cable,14.95
+user_id_016,Phones and Accessories,Google Phone,600
+user_id_025,Phones and Accessories,iPhone,700
+user_id_086,Charging Cables,Lightning Charging Cable,14.95
+user_id_037,Batterie,AAA Batteries (4-pack),8.97
+user_id_067,Charging Cables,USB-C Charging Cable,11.95
+user_id_020,Batterie,AA Batteries (4-pack),7.68
+user_id_063,Batterie,AAA Batteries (4-pack),5.98
+user_id_048,Batterie,AA Batteries (4-pack),3.84
+user_id_019,Batterie,AA Batteries (4-pack),7.68
+user_id_050,Audio Devices,Wired Headphones,11.99
+user_id_028,Laptops and Computers,ThinkPad Laptop,999.99
+user_id_092,Monitors,34in Ultrawide Monitor,379.99
+user_id_033,Charging Cables,USB-C Charging Cable,23.9
+user_id_085,Batterie,AA Batteries (4-pack),3.84
+user_id_027,Batterie,AAA Batteries (4-pack),11.96
+user_id_043,Monitors,27in FHD Monitor,149.99
+user_id_052,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_044,Charging Cables,Lightning Charging Cable,14.95
+user_id_097,Charging Cables,USB-C Charging Cable,23.9
+user_id_040,Laptops and Computers,Macbook Pro Laptop,1700
+user_id_075,Charging Cables,USB-C Charging Cable,11.95
+user_id_046,Monitors,20in Monitor,109.99
+user_id_030,Batterie,AA Batteries (4-pack),3.84
+user_id_070,Charging Cables,USB-C Charging Cable,23.9
+user_id_077,Charging Cables,USB-C Charging Cable,11.95
+user_id_065,Phones and Accessories,iPhone,700
+user_id_053,Monitors,27in FHD Monitor,149.99
+user_id_024,Audio Devices,Bose SoundSport Headphones,99.99
+user_id_088,Charging Cables,USB-C Charging Cable,11.95
+user_id_062,Laptops and Computers,Macbook Pro Laptop,1700
+user_id_094,Home Appliances,LG Washing Machine,600
+user_id_100,Batterie,AAA Batteries (4-pack),5.98
+user_id_080,Batterie,AAA Batteries (4-pack),2.99
