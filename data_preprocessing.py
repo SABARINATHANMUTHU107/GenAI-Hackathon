@@ -96,7 +96,7 @@ def preprocess_data(data):
     return data
 
 def main():
-    file_path = 'ecommerce_data.csv'
+    file_path = 'product_data.csv'
     data = load_dataset(file_path)
     
     display_head(data)
